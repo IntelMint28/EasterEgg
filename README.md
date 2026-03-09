@@ -1,1 +1,3 @@
 # Select language...
+## [English](https://github.com/IntelMint28/EasterEgg/blob/main/EasterEggENG.md)
+## [Español](https://github.com/IntelMint28/EasterEgg/blob/main/EasterEggESP.md)
