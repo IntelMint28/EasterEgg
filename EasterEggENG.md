@@ -1,4 +1,4 @@
 # Select your type of device.
 
-### [Tablet](https://hi.com)
-### [Phone](https://bye.com)
+### [Tablet](https://raw.githubusercontent.com/IntelMint28/EasterEgg/refs/heads/media/Tablet.png)
+### [Phone](https://raw.githubusercontent.com/IntelMint28/EasterEgg/refs/heads/media/Phone.png)
